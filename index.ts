@@ -6,7 +6,7 @@ import fs from "fs/promises";
 dotenv.config();
 
 const app = express();
-const PORT = Number(process.env.PORT) || 4000;
+const PORT = Number(process.env.PORT) || 3000;
 
 interface SoloLevelingCharacter {
   id: number;
