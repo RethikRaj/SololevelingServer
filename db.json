@@ -1,0 +1,47 @@
+{
+  "series": "Solo Leveling",
+  "characters": [
+    {
+      "id": 1,
+      "name": "Sung Jin-woo",
+      "rank": "E-Rank to S-Rank",
+      "class": "Shadow Monarch",
+      "description": "The protagonist who gains the ability to level up like a video game player. He transforms from the weakest hunter to the strongest being in existence."
+    },
+    {
+      "id": 2,
+      "name": "Cha Hae-in",
+      "rank": "S-Rank",
+      "class": "Swordmaster",
+      "description": "The Vice-Guildmaster of the Hunters Guild. She is incredibly fast and has a unique ability to smell mana, which is how she first notices Jin-woo's power."
+    },
+    {
+      "id": 3,
+      "name": "Choi Jong-in",
+      "rank": "S-Rank",
+      "class": "Fire Mage",
+      "description": "Known as the 'Ultimate Soldier' and leader of the Hunters Guild. He specializes in massive area-of-effect fire magic."
+    },
+    {
+      "id": 4,
+      "name": "Baek Yoon-ho",
+      "rank": "S-Rank",
+      "class": "Fighter (Transformation)",
+      "description": "The Guildmaster of White Tiger. He has the ability to transform into a beast-like humanoid, significantly boosting his physical strength and senses."
+    },
+    {
+      "id": 5,
+      "name": "Igris",
+      "rank": "Knight Grade",
+      "class": "Shadow Knight",
+      "description": "A loyal shadow soldier who was once the Red-Knight Commander. He is known for his stoic personality and exceptional swordsmanship."
+    },
+    {
+      "id": 6,
+      "name": "Yoo Jin-ho",
+      "rank": "D-Rank",
+      "class": "Tanker",
+      "description": "Jin-woo's loyal friend and the heir to a wealthy corporation. While not powerful, he provides essential logistical and financial support."
+    }
+  ]
+}
